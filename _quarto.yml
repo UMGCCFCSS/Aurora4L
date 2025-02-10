@@ -9,6 +9,7 @@ website:
     type: info
     position: below-navbar  
   title: "UMGCC FCSS"
+  site-path: "/InstrumentQC/Historical/"
   navbar:
     logo: images/hex.svg
     left:
